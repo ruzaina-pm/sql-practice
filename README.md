@@ -39,3 +39,10 @@ FROM employees e
 JOIN departments d
 ON e.dept_id = d.dept_id;
 ```
+## Skills Demonstrated
+- Database Design
+- Writing SQL Queries
+- Aggregate Functions
+- GROUP BY & HAVING
+- JOINS (INNER, LEFT, RIGHT)
+- Filtering & Sorting Data
