@@ -27,7 +27,7 @@ WHERE salary > 40000;
 
 ### 2. Average Salary by Department
 ```sql
-SELECT department, AVG(salary)
+SELECT dept_name, AVG(salary)
 FROM employees
 GROUP BY department;
 ```
